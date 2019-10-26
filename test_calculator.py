@@ -12,3 +12,7 @@ class TestCalculator:
 
     def test_subtraction(self):
         assert 2 == calculator.subtract(4, 2)
+
+
+if __name__=='__main__':
+    print('Hello')
